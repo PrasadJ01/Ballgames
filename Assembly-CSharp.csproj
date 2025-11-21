@@ -64,12 +64,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Examples\Scripts\PathFollower.cs" />
-    <Compile Include="Assets\Examples\Scripts\RoadMeshCreator.cs" />
-    <Compile Include="Assets\Examples\Scripts\PathSceneTool.cs" />
-    <Compile Include="Assets\Examples\Scripts\PathPlacer.cs" />
-    <Compile Include="Assets\Examples\Scripts\PathSpawner.cs" />
-    <Compile Include="Assets\Examples\Scripts\GeneratePathExample.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\PathPlacer.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\PathSceneTool.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\PathFollower.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\RoadMeshCreator.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\GeneratePathExample.cs" />
+    <Compile Include="Assets\PathCreator\Examples\Scripts\PathSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1035,8 +1035,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Barmetler.RoadSystem.Editor.csproj" />
-    <ProjectReference Include="PathCreator.csproj" />
     <ProjectReference Include="PathCreatorEditor.csproj" />
+    <ProjectReference Include="PathCreator.csproj" />
     <ProjectReference Include="Barmetler.RoadSystem.Runtime.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
