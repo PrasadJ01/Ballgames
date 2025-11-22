@@ -387,6 +387,7 @@
 "Assets/PathCreator/Examples/Scripts/PathSpawner.cs"
 "Assets/PathCreator/Examples/Scripts/RoadMeshCreator.cs"
 "Assets/Scripts/MobileJoystick.cs"
+"Assets/Scripts/PlayerJoystickController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
