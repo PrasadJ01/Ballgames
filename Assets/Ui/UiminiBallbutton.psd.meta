@@ -110,7 +110,7 @@ ScriptedImporter:
       y: 596
       width: 181
       height: 181
-    spriteID: 9322e71e3e5fe7348884c33a2becdb1d
+    spriteID: 5427354d57963254aa97a7d1c400d3a4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -118,7 +118,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 2, y: 595}
+    uvTransform: {x: 4, y: 596}
     spritePosition: {x: 244, y: 261}
   - name: Ellipse 1
     originalName: 
@@ -131,7 +131,7 @@ ScriptedImporter:
       y: 371
       width: 217
       height: 217
-    spriteID: 4bdd8ec9ee5a06b489d4ae1a98433446
+    spriteID: 820a697a29b094641a42bcf9d2860625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -139,7 +139,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 3, y: 369}
+    uvTransform: {x: 4, y: 371}
     spritePosition: {x: 1133, y: 405}
   - name: Ellipse 1
     originalName: 
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 359
       height: 359
-    spriteID: 1500374dfffaa7441b9eb5d1de37892d
+    spriteID: 78e63e8a5adaba94ebdfdc90721a99ae
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,7 +160,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 3, y: 2}
+    uvTransform: {x: 4, y: 4}
     spritePosition: {x: 1062, y: 334}
   characterData:
     bones: []
@@ -202,7 +202,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: a1340544132cb77469aa052a14a5fd7b
+    spriteID: 01fd24b86b470b5498534759d3f9bc6c
     layerID: 15
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
@@ -212,7 +212,7 @@ ScriptedImporter:
     spriteName: Ellipse 1
     isGroup: 0
     parentIndex: 0
-    spriteID: 9322e71e3e5fe7348884c33a2becdb1d
+    spriteID: 5427354d57963254aa97a7d1c400d3a4
     layerID: 53
     mosaicPosition: {x: 4, y: 596}
     flatten: 0
@@ -222,7 +222,7 @@ ScriptedImporter:
     spriteName: Ellipse 1
     isGroup: 0
     parentIndex: 0
-    spriteID: 4bdd8ec9ee5a06b489d4ae1a98433446
+    spriteID: 820a697a29b094641a42bcf9d2860625
     layerID: 52
     mosaicPosition: {x: 4, y: 371}
     flatten: 0
@@ -232,7 +232,7 @@ ScriptedImporter:
     spriteName: Ellipse 1
     isGroup: 0
     parentIndex: 0
-    spriteID: 1500374dfffaa7441b9eb5d1de37892d
+    spriteID: 78e63e8a5adaba94ebdfdc90721a99ae
     layerID: 50
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
